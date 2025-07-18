@@ -93,3 +93,9 @@ Feel free to:
 ## 📄 License
 
 This project is licensed under the **MIT License**
+
+---
+📬 Contact
+Feel free to reach out for collaboration, questions, or feedback.
+
+Author: Aarya Meshram Email: aaryameshram023@gmail.com
